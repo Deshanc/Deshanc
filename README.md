@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/deshanc3" target="blank"><img src="https://img.shields.io/twitter/follow/deshanc3?logo=twitter&style=for-the-badge" alt="deshanc3" /></a> </p>
 
-<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 <br>
 - 🌱 I’m currently learning Web Development and other programming languages
