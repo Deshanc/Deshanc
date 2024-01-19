@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deshan</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshanc&label=Profile%20views&color=0e75b6&style=flat" alt="deshanc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deshanc3" target="blank"><img src="https://img.shields.io/twitter/follow/deshanc3?logo=twitter&style=for-the-badge" alt="deshanc3" /></a> </p>
