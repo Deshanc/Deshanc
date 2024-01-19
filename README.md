@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deshan</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h2 align="center">A Passionate Frontend Developer From Sri Lanka</h2>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
 <br>
 - 🌱 I’m currently learning Web Development and other programming languages
