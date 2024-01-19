@@ -74,9 +74,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Deshanc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Deshanc" /></a></p>
 <br>
-<br>
+
 
 <!--- snake -->
+<br>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
