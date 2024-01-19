@@ -69,8 +69,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Deshanc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Deshanc" /></a></p>
 <br>
