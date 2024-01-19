@@ -77,6 +77,6 @@
 <!--- snake -->
 <br>
 <div align="center">
-  <img  src="https://github.com/Deshanc/Deshanc/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Deshanc/Deshanc/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
