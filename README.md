@@ -3,8 +3,6 @@
 
 <br>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshanc&label=Profile%20views&color=0e75b6&style=flat" alt="deshanc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deshanc3" target="blank"><img src="https://img.shields.io/twitter/follow/deshanc3?logo=twitter&style=for-the-badge" alt="deshanc3" /></a> </p>
@@ -15,7 +13,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 🔭 I’m currently working on [(Freelancer) - Building an interactive e-commerce website for a client.](https://dev-clothina99.pantheonsite.io)
