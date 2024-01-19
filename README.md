@@ -13,6 +13,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 <br>
+
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 🔭 I’m currently working on [(Freelancer) - Building an interactive e-commerce website for a client.](https://dev-clothina99.pantheonsite.io)
