@@ -31,8 +31,17 @@
 <a href="https://linkedin.com/in/deshan chathuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshan chathuranga" height="30" width="40" /></a>
 </p>
 
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
 
+<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Deshanc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Deshanc" /></a></p><br><br>
