@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/deshanc3" target="blank"><img src="https://img.shields.io/twitter/follow/deshanc3?logo=twitter&style=for-the-badge" alt="deshanc3" /></a> </p>
 
-<p align="left">- 🌱 I’m currently learning Web Development and other programming languages
+<br>
+- 🌱 I’m currently learning Web Development and other programming languages
 
 - 🔭 I’m currently working on [(Freelancer) - Building an interactive e-commerce website for a client.](https://dev-clothina99.pantheonsite.io)
 
